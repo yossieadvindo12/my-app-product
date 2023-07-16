@@ -1,5 +1,7 @@
-import imgHero from './image-1.png'
+import imgHero from './image 7.png'
+import footer from './Ellipse 1.png'
 
 export {
-    imgHero
+    imgHero,
+    footer
 }

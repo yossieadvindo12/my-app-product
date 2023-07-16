@@ -1,15 +1,15 @@
 export const navLinks = [
     {
-        id: "home",
-        title: "Home",
+        id: "program",
+        title: "Program",
     },
     {
-        id: "contact",
-        title: "Contact",
+        id: "Bidang Ilmu",
+        title: "Bidang Ilmu",
     },
     {
-        id: "profile",
-        title: "Profile",
+        id: "tentang",
+        title: "Tentang Edspert",
     },
 
 ];
@@ -17,8 +17,8 @@ export const navLinks = [
 export const contentHero = {
 
     id: 1,
-    title: "Persembahan Istimewa! Bersama kami",
-    content: "Dapatkan diskon luar biasa hingga 20% untuk produk pilihan kami. Tingkatkan gaya hidupmu dengan koleksi terbaru dan hemat lebih banyak! Segera kunjungi toko kami sebelum minggu ini berakhir. Jangan lewatkan kesempatan emas ini untuk berbelanja cerdas!"
+    title: "Jadi expert bersama edspert.id",
+    content: "Tingkatkan skill dan pengetahuan bersama para mentor terbaik di bidangnya, untuk siapkan karir impian anda."
 
 }
 
